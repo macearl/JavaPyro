@@ -5,3 +5,5 @@ It contains a minimum set of Features:
   - loading a ZPL File created with PyroIgnitionControl
   - displaying the loaded show
   - starting an automated show
+
+It depends on the <a href="https://github.com/scream3r/java-simple-serial-connector">java-simple-serial-connector</a> library
